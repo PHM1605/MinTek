@@ -1,22 +1,32 @@
 [
   {
     "title": "Clean car",
-    "completed": false,
+    "completed": true,
     "id": 1
   },
   {
-    "title": "Read a book",
-    "completed": false,
-    "id": 2
-  },
-  {
-    "title": "Take a nap",
+    "title": "Take a nap now",
     "completed": true,
     "id": 3
   },
   {
-    "title": "Do laundry",
-    "completed": false,
-    "id": 4
+    "title": "A new task",
+    "completed": true,
+    "id": 5
+  },
+  {
+    "title": "yet another task",
+    "completed": true,
+    "id": 7
+  },
+  {
+    "title": "abc",
+    "completed": true,
+    "id": 8
+  },
+  {
+    "title": "afdsfadfds",
+    "completed": true,
+    "id": 9
   }
 ]
