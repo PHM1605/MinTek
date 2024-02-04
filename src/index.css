@@ -11,3 +11,14 @@ code {
     font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
       monospace;
 }
+
+.sidebar ul li:hover {
+  background-color: rgb(187, 178, 178);
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.active {
+  background-color: rgb(187, 178, 178);
+  border-radius: 5px;
+}
